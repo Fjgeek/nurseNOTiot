@@ -1,0 +1,5 @@
+{
+    "sketch": "registrador_1.0.ino",
+    "board": "arduino:avr:megaADK",
+    "port": "/dev/ttyACM0"
+}
